@@ -1,0 +1,7 @@
+"""
+
+Hashing has Keys and Value (MAP)
+HASH TABLE BHI HOTI HAI EK
+PROVIDES UNIQUE INDEX / HASHING INDEX
+
+"""
